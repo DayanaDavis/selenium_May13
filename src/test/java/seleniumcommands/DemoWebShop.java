@@ -243,4 +243,8 @@ public class DemoWebShop {
 		Object[][] data= {{"davis12345@gmail.com","123456"},{"aalbin123@gmail.com","123456"}};
 		return data;
 	}
+	@Test
+	public void verifyLoginWithParameters() {
+		
+	}
 }
